@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sahil/AndroidStudioProjects/OpeningOtherApps/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/sahil/AndroidStudioProjects/OpeningOtherApps/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "121,59",
+                        "endColumns": "54,60",
+                        "endOffsets": "171,115"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,60",
+                        "endOffsets": "105,166"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/praveen/AndroidStudioProjects/OpeningOtherApps/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/praveen/AndroidStudioProjects/OpeningOtherApps/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "121,59",
+                        "endColumns": "54,60",
+                        "endOffsets": "171,115"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,60",
+                        "endOffsets": "105,166"
+                    }
+                }
+            ]
+        }
+    ]
+}
